@@ -7,3 +7,27 @@ editor: source
 ## Question
 
 What is the average causal effect of hearing Spanish on attitudes toward immigration among students in this class? 
+
+## Units
+student name, age, gender
+
+## Treatments
+hearing Spanish
+
+## Control
+not hearing Spanish
+
+## Outcome
+attitude towards immagration
+
+## Preceptor Table
+not missing data
+each row is a student
+
+### ID
+Names
+### Outcomes
+Treated or Control
+### Causal Effect
+
+
