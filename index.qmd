@@ -1,6 +1,9 @@
 ---
-title: "index"
+title: "Immigration Attitudes"
 author: "Alan Tao"
-format: html
 editor: source
 ---
+
+## Question
+
+What is the average causal effect of hearing Spanish on attitudes toward immigration among students in this class? 
